@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/local-equitus-ai/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://localhost/local-equitus-ai/post-sitemap.xml</loc>
+		<lastmod>2024-07-16T17:54:09+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/local-equitus-ai/page-sitemap.xml</loc>
+		<lastmod>2024-10-21T14:56:43+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/local-equitus-ai/e-landing-page-sitemap.xml</loc>
+		<lastmod>2022-04-08T14:30:58+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/local-equitus-ai/category-sitemap.xml</loc>
+		<lastmod>2024-07-16T17:54:09+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/local-equitus-ai/post_tag-sitemap.xml</loc>
+		<lastmod>2024-07-16T17:54:09+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

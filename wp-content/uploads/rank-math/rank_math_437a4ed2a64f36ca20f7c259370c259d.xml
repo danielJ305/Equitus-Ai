@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//equitus.ai/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://equitus.ai/2024/05/new-ibm-power-server-extends-ai-workloads-from-core-to-cloud-to-edge-for-added-business-value-across-industries/</loc>
+		<lastmod>2024-07-16T17:54:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2024/05/equitus-ai-shines-at-sof-week-2024-empowering-defense-and-commercial-organizations-with-advanced-ai-solutions/</loc>
+		<lastmod>2024-07-16T17:54:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://equitus.ai/wp-content/uploads/2024/05/fusion.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2024/07/equitus-ai-assessed-awardable-for-department-of-defense-work-in-the-cdaos-tradewinds-solutions-marketplace/</loc>
+		<lastmod>2024-07-16T16:03:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2024/04/ausa-2023-recap/</loc>
+		<lastmod>2024-05-15T18:41:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2022/06/james-boe-young-joins-equitus-board-of-directors/</loc>
+		<lastmod>2024-04-01T19:34:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2022/05/how-does-equitus-social-insights-make-data-filtering-easier-when-analyzing-social-media/</loc>
+		<lastmod>2023-01-24T20:47:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2022/04/press-release-equitus-renews-partnership-with-glickenhaus/</loc>
+		<lastmod>2023-01-24T20:45:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2022/04/is-the-impossible-burger-really-that-good/</loc>
+		<lastmod>2023-01-24T20:43:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2022/06/equitus-joins-booming-tech-industry-in-the-middle-east/</loc>
+		<lastmod>2022-12-06T18:45:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://equitus.ai/2022/06/sofic-2022-recap/</loc>
+		<lastmod>2022-06-10T16:51:01+00:00</lastmod>
+	</url>
+</urlset>

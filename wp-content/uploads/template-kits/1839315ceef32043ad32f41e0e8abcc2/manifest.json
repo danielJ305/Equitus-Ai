@@ -1,0 +1,2003 @@
+{
+    "manifest_version": "1.0.13",
+    "title": "Ancorathemes Drone Photography Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block testimonials style 2",
+            "screenshot": "screenshots\/block-testimonials-style-2.jpg",
+            "source": "templates\/block-testimonials-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-testimonials-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block posts style 2",
+            "screenshot": "screenshots\/block-posts-style-2.jpg",
+            "source": "templates\/block-posts-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-posts-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block header style 1",
+            "screenshot": "screenshots\/block-header-style-1.jpg",
+            "source": "templates\/block-header-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-header-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block header style 2",
+            "screenshot": "screenshots\/block-header-style-2.jpg",
+            "source": "templates\/block-header-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-header-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "block footer style 1",
+            "screenshot": "screenshots\/block-footer-style-1.jpg",
+            "source": "templates\/block-footer-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-footer-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block footer style 2",
+            "screenshot": "screenshots\/block-footer-style-2.jpg",
+            "source": "templates\/block-footer-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-footer-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block contact style 2",
+            "screenshot": "screenshots\/block-contact-style-2.jpg",
+            "source": "templates\/block-contact-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-contact-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block image + text style 3",
+            "screenshot": "screenshots\/block-image-text-style-3.jpg",
+            "source": "templates\/block-image-text-style-3.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-image-text-style-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block posts style 1",
+            "screenshot": "screenshots\/block-posts-style-1.jpg",
+            "source": "templates\/block-posts-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-posts-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block member info style",
+            "screenshot": "screenshots\/block-member-info-style.jpg",
+            "source": "templates\/block-member-info-style.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-member-info-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block tab style",
+            "screenshot": "screenshots\/block-tab-style.jpg",
+            "source": "templates\/block-tab-style.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-tab-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block price table style",
+            "screenshot": "screenshots\/block-price-table-style.jpg",
+            "source": "templates\/block-price-table-style.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-price-table-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block faq style",
+            "screenshot": "screenshots\/block-faq-style.jpg",
+            "source": "templates\/block-faq-style.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-faq-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block counter style",
+            "screenshot": "screenshots\/block-counter-style.jpg",
+            "source": "templates\/block-counter-style.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-counter-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block image + text style 4",
+            "screenshot": "screenshots\/block-image-text-style-4.jpg",
+            "source": "templates\/block-image-text-style-4.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-image-text-style-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Main Footer",
+            "screenshot": "screenshots\/main-footer.jpg",
+            "source": "templates\/main-footer.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/?elementor_library=main-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Main Header",
+            "screenshot": "screenshots\/main-header.jpg",
+            "source": "templates\/main-header.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/?elementor_library=main-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/?elementor_library=single-product",
+            "type": "product",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block project style",
+            "screenshot": "screenshots\/block-project-style.jpg",
+            "source": "templates\/block-project-style.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-project-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block price list style",
+            "screenshot": "screenshots\/block-price-list-style.jpg",
+            "source": "templates\/block-price-list-style.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-price-list-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Page",
+            "screenshot": "screenshots\/services-page.jpg",
+            "source": "templates\/services-page.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Page",
+            "screenshot": "screenshots\/contact-page.jpg",
+            "source": "templates\/contact-page.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/contacts-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block services style 2",
+            "screenshot": "screenshots\/block-services-style-2.jpg",
+            "source": "templates\/block-services-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-services-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block services style 1",
+            "screenshot": "screenshots\/block-services-style-1.jpg",
+            "source": "templates\/block-services-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-services-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block team style 2",
+            "screenshot": "screenshots\/block-team-style-2.jpg",
+            "source": "templates\/block-team-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-team-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block team style 1",
+            "screenshot": "screenshots\/block-team-style-1.jpg",
+            "source": "templates\/block-team-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-team-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shop Page",
+            "screenshot": "screenshots\/shop-page.jpg",
+            "source": "templates\/shop-page.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/shop-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Drones and Equipment",
+            "screenshot": "screenshots\/drones-and-equipment.jpg",
+            "source": "templates\/drones-and-equipment.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/drones-and-equipment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block image + text style 1",
+            "screenshot": "screenshots\/block-image-text-style-1.jpg",
+            "source": "templates\/block-image-text-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-image-text-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Style 2",
+            "screenshot": "screenshots\/about-style-2.jpg",
+            "source": "templates\/about-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/about-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "block contact style 1",
+            "screenshot": "screenshots\/block-contact-style-1.jpg",
+            "source": "templates\/block-contact-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-contact-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Style 1",
+            "screenshot": "screenshots\/about-style-1.jpg",
+            "source": "templates\/about-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/about-style-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery (pro)",
+            "screenshot": "screenshots\/gallery-pro-.jpg",
+            "source": "templates\/gallery-pro-.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/gallery-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block services style 3",
+            "screenshot": "screenshots\/block-services-style-3.jpg",
+            "source": "templates\/block-services-style-3.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-services-style-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block image + text style 2",
+            "screenshot": "screenshots\/block-image-text-style-2.jpg",
+            "source": "templates\/block-image-text-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-image-text-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block testimonials style 1",
+            "screenshot": "screenshots\/block-testimonials-style-1.jpg",
+            "source": "templates\/block-testimonials-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/template-kit\/block-testimonials-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Post Single",
+            "screenshot": "screenshots\/post-single.jpg",
+            "source": "templates\/post-single.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/?elementor_library=post-single",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Extensions For Elementor",
+            "version": "1.0.6",
+            "file": "extensions-for-elementor\/extensions-for-elementor.php",
+            "author": "mayanksdudakiya"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "4.1.0",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.4",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.2",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        }
+    ],
+    "images": [
+        {
+            "filename": "aerial-view-of-first-snow-autumn-color-forest-and-6KXQTWE.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-view-of-first-snow-autumn-color-forest-and-6KXQTWE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 241971,
+            "dimensions": [
+                1500,
+                999
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6KXQTWE"
+        },
+        {
+            "filename": "01@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/01@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 3614,
+            "dimensions": [
+                202,
+                196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drone1.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/block-services-style-2.json",
+                    "name": "Block services style 2"
+                },
+                {
+                    "source": "templates\/block-services-style-3.json",
+                    "name": "Block services style 3"
+                },
+                {
+                    "source": "templates\/block-image-text-style-2.json",
+                    "name": "Block image + text style 2"
+                }
+            ],
+            "filesize": 2529,
+            "dimensions": [
+                128,
+                84
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/02@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 4824,
+            "dimensions": [
+                215,
+                196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drone2.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/block-price-table-style.json",
+                    "name": "Block price table style"
+                },
+                {
+                    "source": "templates\/block-services-style-2.json",
+                    "name": "Block services style 2"
+                },
+                {
+                    "source": "templates\/block-services-style-3.json",
+                    "name": "Block services style 3"
+                }
+            ],
+            "filesize": 1667,
+            "dimensions": [
+                104,
+                88
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/03@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 5177,
+            "dimensions": [
+                215,
+                196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drone3.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/block-price-table-style.json",
+                    "name": "Block price table style"
+                },
+                {
+                    "source": "templates\/block-services-style-2.json",
+                    "name": "Block services style 2"
+                },
+                {
+                    "source": "templates\/block-services-style-3.json",
+                    "name": "Block services style 3"
+                }
+            ],
+            "filesize": 4805,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "white-drone-flying-inside-the-building-PBW66A6.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/white-drone-flying-inside-the-building-PBW66A6-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-image-text-style-3.json",
+                    "name": "Block image + text style 3"
+                },
+                {
+                    "source": "templates\/drones-and-equipment.json",
+                    "name": "Drones and Equipment"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 184868,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBW66A6"
+        },
+        {
+            "filename": "aerial-view-of-the-winter-snow-forest-and-frozen-l-PDEPX8Z.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-view-of-the-winter-snow-forest-and-frozen-l-PDEPX8Z-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/block-project-style.json",
+                    "name": "Block project style"
+                },
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 216272,
+            "dimensions": [
+                1920,
+                1439
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDEPX8Z"
+        },
+        {
+            "filename": "drone-in-flight-with-cloudy-sky-PTCUKNJ-scaled.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone-in-flight-with-cloudy-sky-PTCUKNJ-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/block-services-style-3.json",
+                    "name": "Block services style 3"
+                }
+            ],
+            "filesize": 223726,
+            "dimensions": [
+                1707,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/drone-in-flight-with-cloudy-sky-PTCUKNJ"
+        },
+        {
+            "filename": "aerial-view-of-red-car-driving-through-the-white-s-NBZCPLJ-scaled.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-view-of-red-car-driving-through-the-white-s-NBZCPLJ-600x801.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 778109,
+            "dimensions": [
+                1919,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/aerial-view-of-red-car-driving-through-the-white-s-NBZCPLJ"
+        },
+        {
+            "filename": "women-experiencing-virtual-reality-with-vr-headset-P8EWPYR.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/women-experiencing-virtual-reality-with-vr-headset-P8EWPYR-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                }
+            ],
+            "filesize": 226657,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8EWPYR"
+        },
+        {
+            "filename": "drone-with-digital-camera-AL8HSCG-e1586865600840.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone-with-digital-camera-AL8HSCG-e1586865600840-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/shop-page.json",
+                    "name": "Shop Page"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 146795,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5600840"
+        },
+        {
+            "filename": "man-with-drone-in-a-warehouse-PMQEJ35.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/man-with-drone-in-a-warehouse-PMQEJ35-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/block-image-text-style-3.json",
+                    "name": "Block image + text style 3"
+                },
+                {
+                    "source": "templates\/drones-and-equipment.json",
+                    "name": "Drones and Equipment"
+                },
+                {
+                    "source": "templates\/block-image-text-style-1.json",
+                    "name": "Block image + text style 1"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                }
+            ],
+            "filesize": 120432,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMQEJ35"
+        },
+        {
+            "filename": "man-with-drone-flying-at-the-city-on-rooftop-KLF9A8N.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/man-with-drone-flying-at-the-city-on-rooftop-KLF9A8N-600x329.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-image-text-style-3.json",
+                    "name": "Block image + text style 3"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 105328,
+            "dimensions": [
+                1920,
+                1052
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KLF9A8N"
+        },
+        {
+            "filename": "unrecognizable-man-with-drone-sunny-green-nature-c-PKFLLWC.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/unrecognizable-man-with-drone-sunny-green-nature-c-PKFLLWC-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-project-style.json",
+                    "name": "Block project style"
+                },
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 185441,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKFLLWC"
+        },
+        {
+            "filename": "quality.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/quality.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 2053,
+            "dimensions": [
+                50,
+                58
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "diamond.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/diamond.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 1600,
+            "dimensions": [
+                58,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shield.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/shield.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 1909,
+            "dimensions": [
+                50,
+                58
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "white-drone-hovering-in-a-bright-blue-sky-PMFRLG7.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/white-drone-hovering-in-a-bright-blue-sky-PMFRLG7-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-project-style.json",
+                    "name": "Block project style"
+                },
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/drones-and-equipment.json",
+                    "name": "Drones and Equipment"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/block-image-text-style-2.json",
+                    "name": "Block image + text style 2"
+                }
+            ],
+            "filesize": 119540,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMFRLG7"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/3-600x683.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-team-style-2.json",
+                    "name": "Block team style 2"
+                },
+                {
+                    "source": "templates\/block-team-style-1.json",
+                    "name": "Block team style 1"
+                },
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                }
+            ],
+            "filesize": 216230,
+            "dimensions": [
+                1177,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portrait-of-adventurous-hiker-in-forest-H4SXD8J"
+        },
+        {
+            "filename": "lines.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/lines.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-image-text-style-4.json",
+                    "name": "Block image + text style 4"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                }
+            ],
+            "filesize": 130,
+            "dimensions": [
+                110,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "one-more-quote.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/one-more-quote.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 3984,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aerial-view-of-snowy-forest-with-a-road-captured-f-PAUZRF7.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-view-of-snowy-forest-with-a-road-captured-f-PAUZRF7-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                },
+                {
+                    "source": "templates\/block-services-style-1.json",
+                    "name": "Block services style 1"
+                },
+                {
+                    "source": "templates\/drones-and-equipment.json",
+                    "name": "Drones and Equipment"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 295723,
+            "dimensions": [
+                1920,
+                1439
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAUZRF7"
+        },
+        {
+            "filename": "young-technician-flying-uav-drone-with-remote-cont-VZJY86M.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/young-technician-flying-uav-drone-with-remote-cont-VZJY86M-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 162337,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VZJY86M"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/1-600x683.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonials-style-2.json",
+                    "name": "Block testimonials style 2"
+                },
+                {
+                    "source": "templates\/block-team-style-2.json",
+                    "name": "Block team style 2"
+                },
+                {
+                    "source": "templates\/block-testimonials-style-1.json",
+                    "name": "Block testimonials style 1"
+                }
+            ],
+            "filesize": 148580,
+            "dimensions": [
+                1177,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portrait-of-a-beautiful-woman-with-curly-hair-P6NUL3Y"
+        },
+        {
+            "filename": "phone.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/phone.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-style-2.json",
+                    "name": "Block contact style 2"
+                },
+                {
+                    "source": "templates\/block-contact-style-1.json",
+                    "name": "block contact style 1"
+                }
+            ],
+            "filesize": 3547,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "plane@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/plane@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-style-2.json",
+                    "name": "Block contact style 2"
+                },
+                {
+                    "source": "templates\/block-contact-style-1.json",
+                    "name": "block contact style 1"
+                }
+            ],
+            "filesize": 5050,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circular-clock@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/circular-clock@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-style-2.json",
+                    "name": "Block contact style 2"
+                },
+                {
+                    "source": "templates\/block-contact-style-1.json",
+                    "name": "block contact style 1"
+                }
+            ],
+            "filesize": 3054,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "line-red.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/line-red.png",
+            "templates": [
+                {
+                    "source": "templates\/block-image-text-style-3.json",
+                    "name": "Block image + text style 3"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/shop-page.json",
+                    "name": "Shop Page"
+                },
+                {
+                    "source": "templates\/drones-and-equipment.json",
+                    "name": "Drones and Equipment"
+                },
+                {
+                    "source": "templates\/block-image-text-style-1.json",
+                    "name": "Block image + text style 1"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/block-contact-style-1.json",
+                    "name": "block contact style 1"
+                },
+                {
+                    "source": "templates\/block-image-text-style-2.json",
+                    "name": "Block image + text style 2"
+                }
+            ],
+            "filesize": 130,
+            "dimensions": [
+                110,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aerial-view-of-autumn-color-forest-in-the-mountain-NR2ANXX.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-view-of-autumn-color-forest-in-the-mountain-NR2ANXX-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-image-text-style-3.json",
+                    "name": "Block image + text style 3"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 200463,
+            "dimensions": [
+                1500,
+                999
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NR2ANXX"
+        },
+        {
+            "filename": "portrait-of-a-beautiful-woman-with-curly-hair-P6NUL3Y-scaled.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/portrait-of-a-beautiful-woman-with-curly-hair-P6NUL3Y-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-member-info-style.json",
+                    "name": "Block member info style"
+                },
+                {
+                    "source": "templates\/block-team-style-1.json",
+                    "name": "Block team style 1"
+                },
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                },
+                {
+                    "source": "templates\/post-single.json",
+                    "name": "Post Single"
+                }
+            ],
+            "filesize": 375146,
+            "dimensions": [
+                1707,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portrait-of-a-beautiful-woman-with-curly-hair-P6NUL3Y"
+        },
+        {
+            "filename": "drone@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/block-price-table-style.json",
+                    "name": "Block price table style"
+                },
+                {
+                    "source": "templates\/block-services-style-3.json",
+                    "name": "Block services style 3"
+                }
+            ],
+            "filesize": 3278,
+            "dimensions": [
+                119,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drone_bl1.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone_bl1.png",
+            "templates": [
+                {
+                    "source": "templates\/block-counter-style.json",
+                    "name": "Block counter style"
+                }
+            ],
+            "filesize": 1709,
+            "dimensions": [
+                104,
+                88
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drone_bl2.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone_bl2.png",
+            "templates": [
+                {
+                    "source": "templates\/block-counter-style.json",
+                    "name": "Block counter style"
+                }
+            ],
+            "filesize": 3171,
+            "dimensions": [
+                111,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drone_bl3.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone_bl3.png",
+            "templates": [
+                {
+                    "source": "templates\/block-counter-style.json",
+                    "name": "Block counter style"
+                }
+            ],
+            "filesize": 2576,
+            "dimensions": [
+                128,
+                84
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drone_bl4.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone_bl4.png",
+            "templates": [
+                {
+                    "source": "templates\/block-counter-style.json",
+                    "name": "Block counter style"
+                }
+            ],
+            "filesize": 3306,
+            "dimensions": [
+                84,
+                84
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-black-cropped.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/logo-black-cropped.png",
+            "templates": [
+                {
+                    "source": "templates\/main-header.json",
+                    "name": "Main Header"
+                }
+            ],
+            "filesize": 4260,
+            "dimensions": [
+                320,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "white-drone-flying-inside-the-warehouse-PQG2V8R.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/white-drone-flying-inside-the-warehouse-PQG2V8R-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 208892,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQG2V8R"
+        },
+        {
+            "filename": "drone-with-digital-camera-AL8HSCG-1.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone-with-digital-camera-AL8HSCG-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services Page"
+                },
+                {
+                    "source": "templates\/block-services-style-1.json",
+                    "name": "Block services style 1"
+                },
+                {
+                    "source": "templates\/drones-and-equipment.json",
+                    "name": "Drones and Equipment"
+                },
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                }
+            ],
+            "filesize": 132656,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AL8HSCG"
+        },
+        {
+            "filename": "aerial-view-of-white-suspension-bridge-with-car-cr-93U58A5.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-view-of-white-suspension-bridge-with-car-cr-93U58A5-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-services-style-1.json",
+                    "name": "Block services style 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                },
+                {
+                    "source": "templates\/post-single.json",
+                    "name": "Post Single"
+                }
+            ],
+            "filesize": 282727,
+            "dimensions": [
+                1920,
+                1439
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-93U58A5"
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/2-600x683.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-style-2.json",
+                    "name": "Block team style 2"
+                },
+                {
+                    "source": "templates\/block-team-style-1.json",
+                    "name": "Block team style 1"
+                },
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                },
+                {
+                    "source": "templates\/block-testimonials-style-1.json",
+                    "name": "Block testimonials style 1"
+                }
+            ],
+            "filesize": 125540,
+            "dimensions": [
+                1177,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/de\/portrait-of-businesswoman-outdoors-2B7YXA6"
+        },
+        {
+            "filename": "drone-quadcopter-with-digital-camera-Z25D9SA.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/drone-quadcopter-with-digital-camera-Z25D9SA-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop-page.json",
+                    "name": "Shop Page"
+                }
+            ],
+            "filesize": 124440,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z25D9SA"
+        },
+        {
+            "filename": "woman-with-modern-drone-G8NRETR.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/woman-with-modern-drone-G8NRETR-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/drones-and-equipment.json",
+                    "name": "Drones and Equipment"
+                },
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 133351,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G8NRETR"
+        },
+        {
+            "filename": "aerial-view-of-road-near-blue-sea-and-green-mounta-SPVWKR9.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-view-of-road-near-blue-sea-and-green-mounta-SPVWKR9-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                }
+            ],
+            "filesize": 290303,
+            "dimensions": [
+                1920,
+                1439
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SPVWKR9"
+        },
+        {
+            "filename": "square.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/square.png",
+            "templates": [
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                }
+            ],
+            "filesize": 98,
+            "dimensions": [
+                12,
+                12
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aerial-top-view-of-highway-and-overpass-with-green-B258TMQ.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-top-view-of-highway-and-overpass-with-green-B258TMQ-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 301361,
+            "dimensions": [
+                1300,
+                1734
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-B258TMQ"
+        },
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/4-600x683.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                }
+            ],
+            "filesize": 128049,
+            "dimensions": [
+                1177,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portrait-of-a-smiling-young-businessman-SK58Q4V"
+        },
+        {
+            "filename": "5.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/5-600x683.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                }
+            ],
+            "filesize": 119811,
+            "dimensions": [
+                1177,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portrait-of-a-girl-with-a-charming-smile-P2AVWKF"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/6-600x683.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-style-1.json",
+                    "name": "About Style 1"
+                }
+            ],
+            "filesize": 186940,
+            "dimensions": [
+                1177,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portrait-of-beautiful-brunette-with-long-hair-289BE3P"
+        },
+        {
+            "filename": "aerial-top-view-of-country-road-in-green-summer-fo-4FRBUJW.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/aerial-top-view-of-country-road-in-green-summer-fo-4FRBUJW-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-pro-.json",
+                    "name": "Gallery (pro)"
+                }
+            ],
+            "filesize": 281743,
+            "dimensions": [
+                1500,
+                1124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4FRBUJW"
+        },
+        {
+            "filename": "icon@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/drone-photography\/wp-content\/uploads\/sites\/8\/2020\/04\/icon@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonials-style-1.json",
+                    "name": "Block testimonials style 1"
+                }
+            ],
+            "filesize": 557,
+            "dimensions": [
+                54,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
